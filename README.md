@@ -3,10 +3,9 @@
 <h3 align="center">3rd Year CSE Student | Frontend Developer | React.js Learner</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js and Tailwind CSS**
-- 🚀 Just deployed my first Next.js + Tailwind website: **GAINOVA**
 - 🔭 I'm interested in **MERN Stack Development** and building real-world projects
-- 💡 Exploring the world of AI, tech communities, and startup ideas
-- 📫 How to reach me: **rishimaskare2003@gmail.com**
+- 💡 Exploring the world of AI
+- 📫 How to reach me: **maskarerishi54@gmail.com**
 
 ---
 
@@ -26,15 +25,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Maskare&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Maskare&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiMaskare&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiMaskare&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-### ⚡ Fun Fact:
 
-> I built a full website with Next.js + Tailwind before even finishing React 😄
-
----
 
