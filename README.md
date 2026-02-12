@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Maskare</h1>
 <h3 align="center">3rd Year CSE Student | Frontend Developer | React.js Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishiMaskare&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
