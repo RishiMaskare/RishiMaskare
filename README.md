@@ -44,11 +44,11 @@
 ## 🏆 Top Contributed Repositories
 
 <p align="center">
-  <a href="https://github.com/RishiMaskare/Environment_Animal_Safety_Hub">
+  <a href="https://github.com/Jagrati3/Environment_Animal_Safety_Hub">
     <img src="https://img.shields.io/badge/Environment_Animal_Safety_Hub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/RishiMaskare/VishwaGuru">
-    <img src="https://img.shields.io/badge/VishwaGuru-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jiyaBatra/ArtPortfolio-jtc">
+    <img src="https://img.shields.io/badge/ArtPortfolio jtc-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
