@@ -25,6 +25,12 @@
 
 ---
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rishi_Maskare?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
+</p>
+
 ## 📊 GitHub Stats
 
 
