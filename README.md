@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishi Maskare</h1>
-<h3 align="center">3rd Year CSE Student | Frontend Developer | React.js Learner</h3>
+<h3 align="center">Final Year CSE Student | Frontend Developer | React.js Learner</h3>
 
 
 
 ---
 
 ## 🌱 About Me
-- 🌱 Currently learning **HTML, CSS, JavaScript, React.js, Tailwind CSS**
-- 🔭 Interested in **MERN Stack Development** and real-world projects
+- 🔭 Interested in **MERN Stack Development** and real-world projects!
 - 💡 Passionate about **Open Source Contributions**
 - 📫 Reach me at: **maskarerishi54@gmail.com**
 
