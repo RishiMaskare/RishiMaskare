@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rishi Maskare</h1>
-<h3 align="center">Final Year CSE Student | Frontend Developer | React.js Learner</h3>
+<h3 align="center">Final Year CSE Student | MERN Stack Developer</h3>
 
-
+<p align="center">
+  <a href="https://portfolio-sand-ten-fnanaa7mh1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ---
 
 ## 🌱 About Me
 - 🔭 Interested in **MERN Stack Development** and real-world projects!
 - 💡 Passionate about **Open Source Contributions**
+- - 🌐 Portfolio: **https://portfolio-sand-ten-fnanaa7mh1.vercel.app/**
 - 📫 Reach me at: **maskarerishi54@gmail.com**
 
 ---
@@ -80,5 +85,10 @@
   </a>
   <a href="https://www.linkedin.com/in/rishi-maskare-802022287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://portfolio-sand-ten-fnanaa7mh1.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
