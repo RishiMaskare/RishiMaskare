@@ -12,7 +12,7 @@
 ## 🌱 About Me
 - 🔭 Interested in **MERN Stack Development** and real-world projects!
 - 💡 Passionate about **Open Source Contributions**
-- - 🌐 Portfolio: **https://portfolio-sand-ten-fnanaa7mh1.vercel.app/**
+-  🌐 Portfolio: **https://portfolio-sand-ten-fnanaa7mh1.vercel.app/**
 - 📫 Reach me at: **maskarerishi54@gmail.com**
 
 ---
